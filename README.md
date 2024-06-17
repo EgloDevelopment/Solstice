@@ -1,3 +1,3 @@
 ## Solstice
 
-Nothing here yet...
+Nothing here yet... at least for now
